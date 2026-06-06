@@ -295,4 +295,5 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+
+VGG19 model was fine-tuned and tested successfully. The model achieved good accuracy with correct predictions on sample test images.
